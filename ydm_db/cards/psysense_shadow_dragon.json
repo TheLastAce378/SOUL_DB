@@ -1,0 +1,24 @@
+{
+  "id": 10000001,
+  "name": "PSYSense Shadow Dragon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "2+ \"PSYSense\" Monsters\n",
+  "images": [
+    ""
+  ],
+  "type": "Monster",
+  "attribute": "",
+  "atk": ,
+  "species": "",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 3,
+  "link_arrows": [
+    "Bottom-Left",
+	"Bottom",
+    "Bottom-Right"
+  ]
+}

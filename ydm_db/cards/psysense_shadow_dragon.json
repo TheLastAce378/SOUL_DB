@@ -8,9 +8,9 @@
     ""
   ],
   "type": "Monster",
-  "attribute": "",
-  "atk": ,
-  "species": "",
+  "attribute": "Dark",
+  "atk": 2500,
+  "species": "Cyberse",
   "monster_type": "Link",
   "is_pendulum": false,
   "ability": "",

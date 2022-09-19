@@ -1,0 +1,17 @@
+{
+  "id": 11100011,
+  "name": "Judgement Arrows",
+  "is_illegal": ,
+  "is_custom": true,
+  "text": "If a Link Monster this card points to battles, its ATK becomes double its current ATK during damage calculation only. When this card leaves the field while it points to a monster(s), destroy all those monsters. You can only control 1 \"Judgment Arrows\", and only in your Spell & Trap Zone a Link Monster points to.",
+  "images": [
+    ""
+  ],
+  "type": "Spell",
+  "spell_type": "",
+  "link_arrows": [
+    "Top",
+    "Bottom-Left",
+    "Bottom-Right"
+  ]
+}

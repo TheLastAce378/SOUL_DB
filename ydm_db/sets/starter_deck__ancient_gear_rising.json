@@ -1,0 +1,250 @@
+{
+  "name": "Starter Deck: Ancient Gear Rising",
+  "code": "SD-AGR",
+  "type": "Starter Deck",
+  "date": "21-09-2022",
+  "image": "",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 2010001,
+      "code": "SD-AGR-001",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20100005,
+      "code": "SD-AGR-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20100005,
+      "code": "SD-AGR-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20100005,
+      "code": "SD-AGR-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20100004,
+      "code": "SD-AGR-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20100004,
+      "code": "SD-AGR-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20100003,
+      "code": "SD-AGR-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20100003,
+      "code": "SD-AGR-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20100003,
+      "code": "SD-AGR-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20100002,
+      "code": "SD-AGR-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20100002,
+      "code": "SD-AGR-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20100002,
+      "code": "SD-AGR-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90000006,
+      "code": "SD-AGR-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90000007,
+      "code": "SD-AGR-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90000007,
+      "code": "SD-AGR-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90000007,
+      "code": "SD-AGR-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90000008,
+      "code": "SD-AGR-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90000008,
+      "code": "SD-AGR-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90000008,
+      "code": "SD-AGR-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90000001,
+      "code": "SD-AGR-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90000001,
+      "code": "SD-AGR-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90000001,
+      "code": "SD-AGR-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90000004,
+      "code": "SD-AGR-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90000004,
+      "code": "SD-AGR-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90000004,
+      "code": "SD-AGR-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90000003,
+      "code": "SD-AGR-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90000008,
+      "code": "SD-AGR-027",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20100008,
+      "code": "SD-AGR-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20100008,
+      "code": "SD-AGR-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20100007,
+      "code": "SD-AGR-14",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20100007,
+      "code": "SD-AGR-14",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20100007,
+      "code": "SD-AGR-14",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20100009,
+      "code": "SD-AGR-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20100009,
+      "code": "SD-AGR-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20100009,
+      "code": "SD-AGR-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20100010,
+      "code": "SD-AGR-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 20100010,
+      "code": "SD-AGR-016",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20100010,
+      "code": "SD-AGR-016",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20100011,
+      "code": "SD-AGR-017",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 20100009,
+      "code": "SD-AGR-018",
+      "rarity": "Common",
+      "image_index": 0
+    }
+  ]
+}

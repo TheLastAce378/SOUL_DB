@@ -1,0 +1,24 @@
+{
+  "id": 6010001,
+  "name": "Decode Talker",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "2+ Effect Monsters\nGains 500 ATK for each monster it points to. When your opponent activates a card or effect that targets a card(s) you control (Quick Effect): You can Tribute 1 monster this card points to; negate the activation, and if you do, destroy that card.",
+  "images": [
+    "https://static.wikia.nocookie.net/yugioh/images/f/f0/DecodeTalker-DUDE-EN-UR-1E.png/revision/latest/scale-to-width-down/300?cb=20220719160208"
+  ],
+  "type": "Monster",
+  "attribute": "",
+  "atk": ,
+  "species": "",
+  "monster_type": "Link",
+  "is_pendulum": false,
+  "ability": "",
+  "has_effect": true,
+  "link_rating": 3,
+  "link_arrows": [
+    "Top",
+    "Bottom-Left",
+    "Bottom-Right"
+  ]
+}

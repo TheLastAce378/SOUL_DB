@@ -1,0 +1,12 @@
+{
+  "id": 3010016,
+  "name": "Scrap-Iron Barricade",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "Target 1 face-up monster on the field; Set this card face-down instead of sending it to the Graveyard. Also, that monster cannot be destroyed by your opponent's card effects.",
+  "images": [
+    "https://static.wikia.nocookie.net/yugioh/images/0/03/ScrapIronBarricade-JP-Anime-5D.png/revision/latest/scale-to-width-down/200?cb=20090723090538"
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}

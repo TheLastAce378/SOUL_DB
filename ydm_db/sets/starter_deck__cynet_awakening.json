@@ -1,0 +1,262 @@
+{
+  "name": "Starter Deck: Cynet Awakening",
+  "code": "SD-CA",
+  "type": "Starter Deck",
+  "date": "25-09-2022",
+  "image": "https://cdn.discordapp.com/attachments/1022128870108954714/1023707235303555133/Cynet_Awakening.png",
+  "pull_type": "full",
+  "cards": [
+    {
+      "id": 6010002,
+      "code": "SDB-001",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6010003,
+      "code": "SDB-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6010003,
+      "code": "SDB-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6010003,
+      "code": "SDB-002",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6010004,
+      "code": "SDB-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6010004,
+      "code": "SDB-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6010004,
+      "code": "SDB-003",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6010005,
+      "code": "SDB-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6010005,
+      "code": "SDB-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6010005,
+      "code": "SDB-004",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6010006,
+      "code": "SDB-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6010006,
+      "code": "SDB-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6010006,
+      "code": "SDB-005",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6010007,
+      "code": "SDB-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6010007,
+      "code": "SDB-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6010007,
+      "code": "SDB-006",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6010008,
+      "code": "SDB-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6010008,
+      "code": "SDB-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6010008,
+      "code": "SDB-007",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6010009,
+      "code": "SDB-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6010009,
+      "code": "SDB-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6010009,
+      "code": "SDB-008",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6010010,
+      "code": "SDB-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6010010,
+      "code": "SDB-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6010010,
+      "code": "SDB-009",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6010011,
+      "code": "SDB-010",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6010012,
+      "code": "SDB-011",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 90000005,
+      "code": "SDB-012",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6010013,
+      "code": "SDB-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6010013,
+      "code": "SDB-013",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6010014,
+      "code": "SDB-014",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6010015,
+      "code": "SDB-015",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6010016,
+      "code": "SDB-016",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6010017,
+      "code": "SDB-017",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6010018,
+      "code": "SDB-018",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6010019,
+      "code": "SDB-019",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6010020,
+      "code": "SDB-020",
+      "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 6010020,
+      "code": "SDB-021",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6010021,
+      "code": "SDB-021",
+      "rarity": "Super Rare",
+      "image_index": 0
+    },
+    {
+      "id": 6010022,
+      "code": "SDB-021",
+      "rarity": "Common",
+      "image_index": 0
+    },
+	{
+      "id": 6010022,
+      "code": "SDB-022",
+      "rarity": "Rare",
+      "image_index": 0
+    },
+	{
+      "id": 6010001,
+      "code": "SDB-023",
+      "rarity": "Ultra Rare",
+      "image_index": 0
+    }
+  ]
+}

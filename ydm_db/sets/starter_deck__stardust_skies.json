@@ -139,13 +139,13 @@
       "image_index": 0
     },
     {
-      "id": 8010001,
+      "id": 3010006,
       "code": "SD-SS-010",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 8010002,
+      "id": 3010006,
       "code": "SD-SS-011",
       "rarity": "Common",
       "image_index": 0
@@ -205,7 +205,7 @@
       "image_index": 0
     },
     {
-      "id": 3010011,
+      "id": 3010022,
       "code": "SD-SS-016",
       "rarity": "Common",
       "image_index": 0
@@ -256,6 +256,24 @@
       "id": 3010001,
       "code": "SD-SS-021",
       "rarity": "Ultra Rare",
+      "image_index": 0
+    },
+	{
+      "id": 3010032,
+      "code": "SD-SS-022",
+      "rarity": " Rare",
+      "image_index": 0
+    },
+	{
+      "id": 3010031,
+      "code": "SD-SS-023",
+      "rarity": " Rare",
+      "image_index": 0
+    },
+	{
+      "id": 2310033,
+      "code": "SD-SS-024",
+      "rarity": " Rare",
       "image_index": 0
     }
   ]

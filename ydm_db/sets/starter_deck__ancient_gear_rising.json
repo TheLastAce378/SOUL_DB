@@ -163,7 +163,7 @@
       "image_index": 0
     },
     {
-      "id": 90000008,
+      "id": 90000005,
       "code": "SD-AGR-027",
       "rarity": "Common",
       "image_index": 0
@@ -199,19 +199,19 @@
       "image_index": 0
     },
     {
-      "id": 20200009,
+      "id": 20200006,
       "code": "SD-AGR-015",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 20200009,
+      "id": 20200006,
       "code": "SD-AGR-015",
       "rarity": "Common",
       "image_index": 0
     },
     {
-      "id": 20200009,
+      "id": 20200006,
       "code": "SD-AGR-015",
       "rarity": "Common",
       "image_index": 0
@@ -244,6 +244,12 @@
       "id": 20200009,
       "code": "SD-AGR-018",
       "rarity": "Common",
+      "image_index": 0
+    },
+    {
+      "id": 2310033,
+      "code": "SD-AGR-019",
+      "rarity": "Ultra Rare",
       "image_index": 0
     }
   ]

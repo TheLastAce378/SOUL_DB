@@ -1,0 +1,21 @@
+{
+  "id": 2310033,
+  "name": "Ancient Star Dragon",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "1 Tuner + 1+ Non-Tuner Monster.\nFor this card's Synchro Summon, you can treat 1 \"Ancient Gear\" monster you control as a Tuner. This card's name becomes \"Ancient Gear Golem\" while on the field or in the GY. Once per turn (Quick Effect): You can target 1 face-up card you control: Once during this turn, it cannot be destroyed by battle or card effects. If this card attacks, your opponent cannot actiate any Spell/Trap cards until the end of the Damage Step. If this card attacks a Defense Position monster, inflict piercing battle damage.",
+  "images": [
+    "https://cdn.discordapp.com/attachments/1022128846016884867/1024283338963423232/unknown.png"
+  ],
+  "type": "Monster",
+  "attribute": "",
+  "atk": ,
+  "species": "",
+  "monster_type": "",
+  "is_pendulum": ,
+  "ability": "",
+  "has_effect": ,
+  "def": ,
+  "level": ,
+  "is_tuner": 
+}

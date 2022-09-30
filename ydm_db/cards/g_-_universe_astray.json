@@ -1,0 +1,24 @@
+{
+  "id": 2603581452,
+  "name": "G - Universe Astray",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "When this card is Normal Summoned: You can add 1 \"G - Universe\" monster from your Deck to your hand, except \"G - Universe Astray\"\n",
+  "images": [
+    "https://cdn.discordapp.com/attachments/1022128846016884867/1025336401346183219/3499976.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "DARK",
+  "atk": 1900,
+  "species": "Machine",
+  "monster_type": "",
+  "is_pendulum": true,
+  "ability": "",
+  "has_effect": true,
+  "def": 0,
+  "level": 4,
+  "is_tuner": false,
+  "pendulum_text": "When this card is activated; add 1 \"G - Universe\" Ritual Spell card from your Deck to your hand.\n",
+  "pendulum_scale_left_blue": 8,
+  "pendulum_scale_right_red": 8
+}

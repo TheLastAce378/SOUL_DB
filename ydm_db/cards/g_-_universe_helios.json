@@ -1,0 +1,24 @@
+{
+  "id": 2603581451,
+  "name": "G - Universe Helios",
+  "is_illegal": false,
+  "is_custom": true,
+  "text": "You can Ritual Summon this card with any \"G - Universe\" Ritual Spell. Up to twice per turn, when this attacking card destroys a monster by battle: You can discard 1 Machine monster; this card can attack again in a row. If this card on the field is destroyed by battle or card effect: You can send the top 3 cards of your Deck to the GY, and if you do, Special Summon this card. You can only use this effect of \"G - Universe Helios\" once per Duel.",
+  "images": [
+    "https://cdn.discordapp.com/attachments/1022128846016884867/1025336400528285796/3497970.jpg"
+  ],
+  "type": "Monster",
+  "attribute": "Light",
+  "atk": 2500,
+  "species": "Machine",
+  "monster_type": "Ritual",
+  "is_pendulum": true,
+  "ability": "",
+  "has_effect": true,
+  "def": 2000,
+  "level": 7,
+  "is_tuner": false,
+  "pendulum_text": "When you activate this card: You can add 1 \"G - Universe\" Ritual Spell from the deck or GY to your hand. You can only use this effect once per turn. If you control no monsters: You can Special Summon this card from your Pendulum Zone. You can only use this effect of \"G - Universe Helios\" once per Duel.\n",
+  "pendulum_scale_left_blue": 3,
+  "pendulum_scale_right_red": 3
+}

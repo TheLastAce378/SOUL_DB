@@ -1,5 +1,5 @@
 {
-  "name": "adaption_set",
+  "name": "adaption_booster",
   "pulls": [
     {
       "weight": 1,
@@ -14,7 +14,7 @@
         {
           "count": 1,
           "rarities": [
-            "Secret Rare"
+            "Adaption Rare"
           ]
         }
       ]

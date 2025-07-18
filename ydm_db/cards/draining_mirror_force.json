@@ -1,0 +1,12 @@
+{
+  "id": 42348695243,
+  "name": "Draining Mirror Force",
+  "is_illegal": false,
+  "is_custom": false,
+  "text": "When an opponent\u0027s monster declares a direct attack: negate that attack, and if you do, gain LP equal to the attacking monster\u0027s ATK. If you gain LP from this card's effect: End the Battle Phase.",
+  "images": [
+    ""
+  ],
+  "type": "Trap",
+  "trap_type": "Normal"
+}
